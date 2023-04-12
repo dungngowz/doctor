@@ -1,0 +1,29 @@
+.Toastify {
+  .Toastify__toast {
+    min-height: 44px;
+    border-radius: 8px;
+    padding: 0px 10px;
+    box-shadow: none !important;
+    .Toastify__toast-body {
+      font-weight: 600 !important;
+      font-size: 12px !important;
+    }
+
+    .Toastify__toast-icon {
+      width: 16px;
+    }
+
+    .Toastify__close-button {
+      align-self: center;
+      padding-left: 12px !important;
+    }
+  }
+}
+
+.Toastify__progress-bar.Toastify__progress-bar--animated.Toastify__progress-bar-theme--colored.Toastify__progress-bar--success {
+  height: 3px;
+}
+
+.Toastify__progress-bar.Toastify__progress-bar--animated.Toastify__progress-bar-theme--colored.Toastify__progress-bar--error {
+  height: 3px;
+}

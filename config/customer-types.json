@@ -1,0 +1,32 @@
+{
+  "customerTypesHeadTitle": "Quản lý phân loại khách hàng",
+  "customerTypesBreadcrumbsTitle": "Quản lý phân loại khách hàng",
+  "customerTypesIdHeadCell": "#",
+  "customerTypesTitleHeadCell": "Tên loại khách hàng",
+  "customerTypesCreatedAtHeadCell": "Ngày tạo",
+
+  "customerTypesModalCreate": "Thêm mới loại khách hàng",
+  "customerTypesModalUpdate": "Cập nhật loại khách hàng",
+
+  "customerTypesTitleFieldLabel": "Tên loại khách hàng",
+  "customerTypesTitlePlaceholder": "Nhập tên loại khách hàng",
+
+  "customerTypesBtnAddNew": "Thêm mới",
+  "customerTypesBtnSubmit": "Thêm mới",
+  "customerTypesBtnSubmitUpdate": "Cập nhật",
+  "customerTypesBtnCancel": "Huỷ",
+  "customerTypesBtnClose": "Đóng",
+  "customerTypesBtnDelete": "Xoá",
+  "customerTypesBtnSaveQuote": "Xác nhận",
+
+  "customerTypesMessageCreateSuccess": "Tạo mới dữ liệu thành công!",
+  "customerTypesMessageCreateError": "Có lỗi khi tạo mới dữ liệu. Vui lòng thử lại",
+
+  "customerTypesMessageUpdateSuccess": "Cập nhật dữ liệu thành công",
+  "customerTypesMessageUpdateError": "Có lỗi khi cập nhật dữ liệu. Vui lòng thử lại",
+
+  "customerTypesMessageDeleteSuccess": "Đã xoá dữ liệu thành công!",
+  "customerTypesMessageDeleteError": "Có lỗi khi xoá dữ liệu. Vui lòng thử lại!",
+
+  "customerTypesMessageDeleteDescription": "Bạn có thật sự muốn xóa  loại khách hàng"
+}

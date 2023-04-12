@@ -1,0 +1,67 @@
+{
+  "productInputHeadTitle": "Quản lý nhập hàng",
+  "productInputBreadcrumbsTitle": "Quản lý nhập hàng",
+  "productInputIdHeadCell": "#",
+  "productInputVehicleHeadCell": "Sô xe",
+  "productInputProductCateHeadCell": "Loại hàng",
+  "productInputFirstWeightHeadCell": "Cân lần 1",
+  "productInputSecondaryWeightHeadCell": "Cân lần 2",
+  "productInputCreateAtHeadCell": "Ngày tạo",
+
+  "productInputModalCreate": "Thêm mới nhập hàng",
+  "productInputModalUpdate": "Chi tiết nhập hàng",
+
+  "productInputProductFieldLabel": "Sản phẩm",
+  "productInputProductFieldPlaceholder": "Chọn sản phẩm",
+  "productInputProductRequiredValidation": "Vui lòng chọn sản phẩm",
+
+  "productInputVehicleFieldLabel": "Số xe",
+  "productInputVehicleFieldPlaceholder": "Chọn số xe",
+  "productInputVehicleRequiredValidation": "Vui lòng chọn sỗ xe",
+
+  "productInputSupplierFieldLabel": "Nhà cung cấp",
+  "productInputSupplierFieldPlaceholder": "Chọn nhà cung cấp",
+  "productInputSupplierRequiredValidation": "Vui lòng chọn nhà cung cấp",
+
+  "productInputFirstWeightFieldLabel": "Cân lần 1",
+  "productInputFirstWeightFieldPlaceholder": "VD: 100",
+
+  "productInputSecondaryWeightFieldLabel": "Cân lần 2",
+  "productInputSecondaryWeightFieldPlaceholder": "VD: 100",
+
+  "productInputTotalLabel": "Trọng lượng hàng:",
+
+  "productInputFirstTimeInputFieldLabel": "Giờ vào",
+  "productInputFirstTimeInputRequiredValidation": "Vui lòng chọn giờ vào",
+
+  "productInputSecondaryTimeInputFieldLabel": "Giờ ra",
+  "productInputSecondaryTimeInputRequiredValidation": "Vui lòng chọn giờ ra",
+
+  "productInputPlaceDeliveryFieldLabel": "Địa điểm giao hàng",
+  "productInputPlaceDeliveryFieldPlaceholder": "Nhập địa điểm giao hàng",
+
+  "productInputShippingUnitFieldLabel": "Đơn vị vận chuyển",
+  "productInputShippingUnitFieldPlaceholder": "Nhập đơn vị vận chuyển",
+
+  "productInputPriceFieldLabel": "Giá tiền",
+  "productInputPriceFieldPlaceholder": "VD: 1,000,000",
+
+  "productInputBtnAddNew": "Thêm mới",
+  "productInputBtnSubmit": "Thêm mới",
+  "productInputBtnSubmitUpdate": "Cập nhật",
+  "productInputBtnCancel": "Huỷ",
+  "productInputBtnClose": "Đóng",
+  "productInputBtnDelete": "Xoá",
+  "productInputBtnSaveQuote": "Xác nhận",
+
+  "productInputMessageCreateSuccess": "Tạo mới dữ liệu thành công!",
+  "productInputMessageCreateError": "Có lỗi khi tạo mới dữ liệu. Vui lòng thử lại",
+
+  "productInputMessageUpdateSuccess": "Cập nhật dữ liệu thành công",
+  "productInputMessageUpdateError": "Có lỗi khi cập nhật dữ liệu. Vui lòng thử lại",
+
+  "productInputMessageDeleteSuccess": "Đã xoá dữ liệu thành công!",
+  "productInputMessageDeleteError": "Có lỗi khi xoá dữ liệu. Vui lòng thử lại!",
+
+  "productInputMessageDeleteDescription": "Bạn có thật sự muốn xóa nhập hàng"
+}

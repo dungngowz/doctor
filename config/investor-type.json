@@ -1,0 +1,32 @@
+{
+  "investorTypeHeadTitle": "Quản lý loại vốn",
+  "investorTypeBreadcrumbsTitle": "Quản lý loại vốn",
+  "investorTypeIdHeadCell": "#",
+  "investorTypeTitleHeadCell": "Tên loại vốn",
+  "investorTypeCreatedAtHeadCell": "Ngày tạo",
+
+  "investorTypeModalCreate": "Thêm mới loại vốn",
+  "investorTypeModalUpdate": "Cập nhật loại vốn",
+
+  "investorTypeTitleFieldLabel": "Tên loại vốn",
+  "investorTypeTitlePlaceholder": "VD: Vốn ngân sách NN",
+
+  "investorTypeBtnAddNew": "Thêm mới",
+  "investorTypeBtnSubmit": "Thêm mới",
+  "investorTypeBtnSubmitUpdate": "Cập nhật",
+  "investorTypeBtnCancel": "Huỷ",
+  "investorTypeBtnClose": "Đóng",
+  "investorTypeBtnDelete": "Xoá",
+  "investorTypeBtnSaveQuote": "Xác nhận",
+
+  "investorTypeMessageCreateSuccess": "Tạo mới dữ liệu thành công!",
+  "investorTypeMessageCreateError": "Có lỗi khi tạo mới dữ liệu. Vui lòng thử lại",
+
+  "investorTypeMessageUpdateSuccess": "Cập nhật dữ liệu thành công",
+  "investorTypeMessageUpdateError": "Có lỗi khi cập nhật dữ liệu. Vui lòng thử lại",
+
+  "investorTypeMessageDeleteSuccess": "Đã xoá dữ liệu thành công!",
+  "investorTypeMessageDeleteError": "Có lỗi khi xoá dữ liệu. Vui lòng thử lại!",
+
+  "investorTypeMessageDeleteDescription": "Bạn có thật sự muốn xóa loại vốn"
+}

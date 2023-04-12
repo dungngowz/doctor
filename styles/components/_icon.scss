@@ -1,0 +1,56 @@
+.ic {
+  @include box-ratio;
+
+  @include m('white') {
+    background-color: var(--white);
+  }
+
+  @include m('primary') {
+    background-color: var(--primary);
+  }
+
+  @include m('gray') {
+    background-color: var(--gray);
+  }
+
+  @include m('mid-gray') {
+    background-color: var(--mid-gray);
+  }
+
+  @include m('green') {
+    background-color: var(--green);
+  }
+
+  @include m('light-gray') {
+    background-color: var(--light-gray);
+  }
+
+  @include m('login') {
+    width: 422px;
+    height: 408px;
+    background-image: url(#{$path-icon}/ic-login.svg);
+  }
+
+  @include m('forgot-password') {
+    width: 360px;
+    background-image: url(#{$path-icon}/ic-forgot-password.svg);
+  }
+
+  @include m('reset-password') {
+    width: 360px;
+    background-image: url(#{$path-icon}/ic-reset-password.svg);
+  }
+
+  @include m('logo') {
+    width: 100px;
+    height: 48px;
+    background-image: url(#{$path-icon}/ic-logo.svg);
+  }
+
+  @include m('search') {
+    width: 20px;
+    height: 20px;
+    flex-shrink: 0;
+    background-image: url(#{$path-icon}/ic-search.svg);
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "reportInputHeadTitle": "Báo cáo nhập hàng",
+  "reportInputBreadcrumbsTitle": "Báo cáo nhập hàng",
+  "reportInputIdHeadCell": "#",
+  "reportInputCodeHeadCell": "Nhà cung cấp",
+  "reportInputPlaceDeliveryHeadCell": "Địa điểm giao hàng",
+  "reportInputProductTypeHeadCell": "Loại hàng",
+  "reportInputVehicleCodeHeadCell": "Số xe",
+  "reportInputPriceHeadCell": "Đơn giá",
+  "reportInputTotalPriceHeadCell": "Thành tiền",
+  "reportInputProductWeightHeadCell": "KL Hàng",
+  "reportInputShipUnitHeadCell": "Đơn vị VC",
+  "reportInputCreatedAtHeadCell": "Ngày nhập",
+
+  "reportInputCodeLabel": "Nhà cung cấp",
+  "reportInputPlaceDeliveryLabel": "Địa điểm giao hàng",
+  "reportInputProductTypeLabel": "Loại hàng",
+  "reportInputVehicleCodeLabel": "Số xe",
+  "reportInputPriceLabel": "Đơn giá",
+  "reportInputTotalPriceLabel": "Thành tiền",
+  "reportInputProductWeightLabel": "KL Hàng",
+  "reportInputShipUnitLabel": "Đơn vị VC",
+  "reportInputCreatedAtLabel": "Ngày tạo",
+
+  "reportInputDetailLabel": "Chi tiết báo cáo nhập hàng",
+
+  "reportInputBtnAddNew": "Thêm mới",
+  "reportInputBtnSubmit": "Thêm mới",
+  "reportInputBtnSubmitUpdate": "Cập nhật",
+  "reportInputBtnCancel": "Huỷ",
+  "reportInputBtnClose": "Đóng",
+  "reportInputBtnDelete": "Xoá",
+  "reportInputBtnSaveQuote": "Xác nhận",
+
+  "reportInputMessageCreateSuccess": "Tạo mới dữ liệu thành công!",
+  "reportInputMessageCreateError": "Có lỗi khi tạo mới dữ liệu. Vui lòng thử lại",
+
+  "reportInputMessageUpdateSuccess": "Cập nhật dữ liệu thành công",
+  "reportInputMessageUpdateError": "Có lỗi khi cập nhật dữ liệu. Vui lòng thử lại",
+
+  "reportInputMessageDeleteSuccess": "Đã xoá dữ liệu thành công!",
+  "reportInputMessageDeleteError": "Có lỗi khi xoá dữ liệu. Vui lòng thử lại!",
+
+  "reportInputMessageDeleteDescription": "Bạn có thật sự muốn xóa báo cáo xuát hàng"
+}

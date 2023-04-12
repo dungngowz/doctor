@@ -1,0 +1,80 @@
+.MuiButton-root {
+  padding: $button-padding !important;
+  font-size: 13px !important;
+  font-weight: 500 !important;
+  text-transform: none !important;
+  border-radius: var(--border-radius) !important;
+  height: 38px !important;
+  box-shadow: none !important;
+  white-space: nowrap !important;
+}
+
+// Button sizes
+.MuiButton-sizeSmall {
+  padding: 4px 12px !important;
+  height: 30px !important;
+  font-size: 12px !important;
+  border-radius: 4px !important;
+}
+
+.MuiButton-outlinedInherit {
+  border-color: var(--gray-300) !important;
+  background-color: var(--gray-100) !important;
+}
+
+.MuiButton-sizeSmall {
+  height: 32px !important;
+}
+
+.icon-btn-add {
+  height: 38px;
+  width: 38px;
+  background-color: var(--primary) !important;
+  color: #fff !important;
+  border-radius: var(--border-radius) !important;
+}
+
+// Custom variant
+.MuiButton-filledTonalPrimary {
+  background-color: var(--primary-light) !important;
+  color: var(--primary) !important;
+
+  svg {
+    path {
+      color: var(--primary) !important;
+    }
+  }
+}
+.MuiButton-filledTonalPrimary.Mui-disabled {
+  background-color: rgba(0, 0, 0, 0.12) !important;
+  color: rgba(0, 0, 0, 0.26) !important;
+  svg {
+    path {
+      color: rgba(0, 0, 0, 0.26) !important;
+    }
+  }
+}
+
+.MuiButton-filledTonalError {
+  background-color: var(--danger-light) !important;
+  color: var(--danger) !important;
+}
+
+//////////////////////////
+
+.icon-button-close {
+  .MuiIconButton-root {
+    height: var(--base-height);
+    width: var(--base-height);
+  }
+}
+
+.MuiIconButton-root.Mui-disabled {
+  color: rgba(0, 0, 0, 0.26) !important;
+  cursor: default !important;
+  svg {
+    path {
+      color: rgba(0, 0, 0, 0.26) !important;
+    }
+  }
+}

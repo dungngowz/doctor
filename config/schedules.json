@@ -1,0 +1,60 @@
+{
+  "schedulesHeadTitle": "Quản lý lịch sản xuất",
+  "schedulesBreadcrumbsTitle": "Quản lý lịch sản xuất",
+
+  "schedulesOrderCodeLabel": "Mã ĐH",
+  "schedulesContractorNameLabel": "Khách hàng",
+  "schedulesOrderVolumeLabel": "Khối lượng ĐH",
+  "schedulesRemainingMassLabel": "Khối lượng còn lại",
+  "schedulesExportedVolumeLabel": "Khối lượng đã xuất",
+  "schedulesTimeExportLabel": "Thời gian xuất hàng",
+
+  "schedulesSelectProductLabel": "Hạng mục",
+  "schedulesPlaceDeliveryLabel": "Địa điểm giao hàng",
+  "schedulesConsigneeNameLabel": "Người nhận",
+  "schedulesShippingUnitLabel": "Đơn vị vận chuyển",
+
+  "schedulesBtnAddNew": "Thêm mới",
+  "schedulesBtnSubmit": "Thêm mới",
+  "schedulesBtnSubmitUpdate": "Cập nhật",
+  "schedulesBtnEdit": "Chỉnh sửa",
+  "schedulesBtnListExporting": "DS xuất hàng",
+  "schedulesBtnCancel": "Huỷ",
+  "schedulesBtnClose": "Đóng",
+  "schedulesBtnDelete": "Xoá",
+
+  "schedulesSelectedOrderLabel": "Đơn hàng",
+  "schedulesSelectedOrderBtnLabel": "Chọn ĐH",
+  "schedulesReSelectOrderBtnLabel": "Chọn lại ĐH",
+  "schedulesReSelectedOrderBtn": "Đã chọn",
+  "schedulesSelectedOrderBtn": "Chọn ĐH",
+
+  "scheduleModalCreate": "Tạo mới lịch sản xuất",
+  "scheduleModalUpdate": "Cập nhật lịch sản xuất",
+
+  "schedulesSelectStatusFilter": "Lọc theo trạng thái ĐH",
+  "schedulesSupplierIdFilter": "Lọc theo nhà cung cấp",
+  "schedulesProductIdFilter": "Lọc theo hạng mục",
+
+  "schedulesDetailOrderLabel": "Chi tiết đơn hàng",
+  "schedulesCodeOrderLabel": "Mã ĐH",
+
+  "schedulesMessageCreateSuccess": "Tạo mới dữ liệu thành công!",
+  "schedulesMessageCreateError": "Có lỗi khi tạo mới dữ liệu. Vui lòng thử lại",
+
+  "schedulesMessageUpdateSuccess": "Cập nhật dữ liệu thành công",
+  "schedulesMessageUpdateError": "Có lỗi khi cập nhật dữ liệu. Vui lòng thử lại",
+
+  "schedulesMessageDeleteSuccess": "Đã xoá dữ liệu thành công!",
+  "schedulesMessageDeleteError": "Có lỗi khi xoá dữ liệu. Vui lòng thử lại!",
+
+  "schedulesMessageDeleteDescription": "Bạn có thật sự muốn xóa lịch sản xuất",
+  "schedulesNotFoundData": "Dữ liệu không được tìm thấy",
+
+  "placeDeliveryRequiredValidation": "Địa chỉ giao hàng là bắt buộc",
+  "placeDeliveryMaxLengthValidation": "Địa chỉ tối đa 255 ký tự",
+
+  "schedulesSelectSupplierRequiredValidation": "Vui lòng chọn nhà cung cấp",
+
+  "schedulesSelectOrderModalLabel": "Chọn đơn hàng"
+}

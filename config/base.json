@@ -1,0 +1,32 @@
+{
+  "baseHeadTitle": "Quản lý resource",
+  "baseBreadcrumbsTitle": "Quản lý resource",
+  "baseIdHeadCell": "#",
+  "baseTitleHeadCell": "Tên ",
+  "baseCreatedAtHeadCell": "Ngày tạo",
+
+  "baseModalCreate": "Thêm mới resource",
+  "baseModalUpdate": "Cập nhật resource",
+
+  "baseTitleFieldLabel": "Tên",
+  "baseTitlePlaceholder": "VD: 0213",
+
+  "baseBtnAddNew": "Thêm mới",
+  "baseBtnSubmit": "Thêm mới",
+  "baseBtnSubmitUpdate": "Cập nhật",
+  "baseBtnCancel": "Huỷ",
+  "baseBtnClose": "Đóng",
+  "baseBtnDelete": "Xoá",
+  "baseBtnSaveQuote": "Xác nhận",
+
+  "baseMessageCreateSuccess": "Tạo mới dữ liệu thành công!",
+  "baseMessageCreateError": "Có lỗi khi tạo mới dữ liệu. Vui lòng thử lại",
+
+  "baseMessageUpdateSuccess": "Cập nhật dữ liệu thành công",
+  "baseMessageUpdateError": "Có lỗi khi cập nhật dữ liệu. Vui lòng thử lại",
+
+  "baseMessageDeleteSuccess": "Đã xoá dữ liệu thành công!",
+  "baseMessageDeleteError": "Có lỗi khi xoá dữ liệu. Vui lòng thử lại!",
+
+  "baseMessageDeleteDescription": "Bạn có thật sự muốn xóa resource"
+}

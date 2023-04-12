@@ -1,0 +1,110 @@
+{
+  "orderHeadTitle": "Quản lý đơn hàng",
+  "orderBreadcrumbsTitle": "Quản lý đơn hàng",
+
+  "orderIdHeadCell": "#",
+  "orderCodeHeadCell": "Mã ĐH",
+  "orderStatusHeadCell": "Trạng thái ĐH",
+  "orderContractCodeHeadCell": "Mã hợp đồng",
+  "orderContractorNameHeadCell": "Nhà thầu",
+  "orderProjectNameHeadCell": "Dự án",
+  "orderFinalPriceHeadCell": "Thành tiền",
+  "orderAddressHeadCell": "Địa điểm",
+  "orderOrderDetailHeadCell": "Chi tiết ĐH",
+  "orderCreatedAtHeadCell": "Ngày tạo",
+  "orderAccountantStatusHeadCell": "Xét duyệt ĐH",
+  "orderRoomBusiness": "Phòng Kinh Doanh",
+  "orderRoomAccountant": "Phòng kế toán",
+
+  "orderSelectQuoteModalLabel": "Chọn báo giá",
+  "orderModalCreate": "Thêm mới đơn hàng",
+  "orderModalUpdate": "Cập nhật đơn hàng",
+
+  "orderCodeFieldLabel": "Mã ĐH",
+  "orderCodeFieldPlaceholder": "VD: 102PN32",
+  "orderCanApprovedFieldLabel": "Trạng thái ĐH",
+
+  "orderConsigneeNameFieldLabel": "Người nhận",
+  "orderConsigneeNameFieldPlaceholder": "Nhập tên người nhận",
+
+  "orderPhoneContactFieldLabel": "SĐT Người nhận",
+  "orderPhoneContactFieldPlaceholder": "Nhập SĐT người nhận",
+
+  "orderSelectContractModalLabel": "Chọn hợp đồng",
+
+  "orderDetailContractLabel": "Chi tiết hợp đồng",
+  "orderCodeContractLabel": "Mã hợp đồng",
+  "orderStatusContractLabel": "Trạng thái hợp đồng",
+  "orderUserCreatedAtContractLabel": "Người tạo",
+  "orderUserApprovedContractLabel": "Người duyệt",
+
+  "orderStationFieldLabel": "Trạm cân",
+  "orderStationFieldPlaceholder": "Chọn trạm cân",
+  "orderStationRequiredValidation": "Vui lòng chọn trạm cân",
+
+  "orderWorkStationLabel": "Thời gian tới công trình",
+  "orderWorkStationRequiredValidation": "Vui lòng chọn Thời gian tới công trình",
+
+  "orderAddressLabel": "Địa điểm",
+
+  "orderQuoteLabel": "Báo giá",
+  "orderNameContractorLabel": "Nhà thầu chính",
+  "orderNameProjectLabel": "Dự án",
+  "orderNameProvinceLabel": "Tỉnh / Thành",
+  "orderNameDistrictLabel": "Quận / Huyện",
+  "orderQuotePriceLabel": "Giá",
+  "orderQuotePaymentMethodLabel": "Phương thức thanh toán",
+  "orderDurationQuoteLabel": "Thời hạn báo giá",
+
+  "orderProductLabel": "Sản phẩm",
+  "orderCodeProductLabel": "Mã sản phẩm",
+  "orderNameProductLabel": "Hạng mục",
+  "orderUnitProductLabel": "Đvt",
+  "orderPriceProductLabel": "Đơn giá",
+  "orderQtyProductLabel": "Khối lượng",
+  "orderTotalPriceItemProductLabel": "Thành tiền",
+  "orderTotalPriceProductLabel": "Tổng tiền",
+
+  "orderStaffAuthorLabel": "Người tạo đơn hàng",
+  "orderStaffConfirmLabel": " Người phê duyệt đơn hàng",
+
+  "orderSelectContractorFilter": "Lọc theo nhà thầu",
+  "orderSelectProjectFilter": "Lọc theo dự án",
+
+  "orderSelectStatusFilter": "Lọc theo tt - ĐH (Phòng KD)",
+  "orderSelectStatusAccountantFilter": "Lọc theo tt - ĐH (Phòng KT)",
+
+  "orderDetailFieldLabel": "Chi tiết đơn hàng",
+  "orderUpdateFinishSuccess": "Đã hoàn thành đơn hàng",
+
+  "orderBtnSelectContract": "Chọn hợp đồng",
+  "orderBtnReSelectContract": "Chọn lại hợp đồng",
+  "orderSelectContractLabel": "Hợp đồng",
+  "orderBtnAddNew": "Thêm mới",
+  "orderBtnSubmit": "Thêm mới",
+  "orderBtnSubmitUpdate": "Cập nhật",
+  "orderBtnCancel": "Huỷ",
+  "orderBtnClose": "Đóng",
+  "orderBtnDelete": "Xoá",
+  "orderBtnSaveQuote": "Xác nhận",
+  "orderSelectedContractBtnLabel": "Đã chọn",
+  "orderSelectContractBtnLabel": "Chọn hợp đồng",
+  "orderCompleteBtn": "Hoàn thành đơn hàng",
+  "orderBtnConfirmCompleteOrder": "Hoàn thành",
+
+  "orderStatusCompleted": "Đã hoàn thành",
+  "orderStatusNotCompleted": "Chưa hoàn thành",
+
+  "orderMessageCreateSuccess": "Tạo mới dữ liệu thành công!",
+  "orderMessageCreateError": "Có lỗi khi tạo mới dữ liệu. Vui lòng thử lại",
+
+  "orderMessageUpdateSuccess": "Cập nhật dữ liệu thành công",
+  "orderMessageUpdateError": "Có lỗi khi cập nhật dữ liệu. Vui lòng thử lại",
+
+  "orderMessageDeleteSuccess": "Đã xoá dữ liệu thành công!",
+  "orderMessageDeleteError": "Có lỗi khi xoá dữ liệu. Vui lòng thử lại!",
+
+  "orderMessageDeleteDescription": "Bạn có thật sự muốn xóa đơn hàng",
+
+  "orderMessageConfirmComplete": " Bạn có chắc muốn hoàn thành đơn hàng này không?"
+}

@@ -1,0 +1,123 @@
+{
+  "quoteHeadTitle": "Quản lý báo giá",
+  "quoteBreadcrumbsTitle": "Quản lý báo giá",
+
+  "quoteIdHeadCell": "#",
+  "quoteNameHeadCell": "Tên báo giá",
+  "quoteCodeHeadCell": "Mã báo giá",
+  "quoteCustomerHeadCell": "Nhà thầu",
+  "quoteProjectHeadCell": "Dự án",
+  "quotePaymentMethodHeadCell": "Hình Thức Thanh Toán",
+  "quoteStatusHeadCell": "Phê duyệt (Phòng KD)",
+  "quoteFinalPriceHeadCell": "Đơn giá",
+  "quoteAddressHeadCell": "Địa điểm",
+  "quoteDurationQuoteHeadCell": "Thời hạn",
+  "quoteTotalQtyHeadCell": "Tổng khối lượng",
+  "quoteCreatedAtHeadCell": "Ngày tạo",
+  "quoteOrderDetailHeadCell": "Chi tiết báo giá",
+
+  "quoteModalCreate": "Thêm mới báo giá",
+  "quoteModalUpdate": "Chi tiết báo giá",
+
+  "quoteProductLabel": "Sản phẩm",
+
+  "quoteNameFieldLabel": "Tên",
+
+  "quoteCodeFieldLabel": "Mã báo giá",
+  "quoteCodePlaceholder": "VD: 123",
+
+  "quoteContractorIdSelectLabel": "Nhà thầu chính",
+  "quoteContractorIdSelectPlaceholder": "Chọn nhà thâu chính",
+  "quoteContractorIdSelectRequiredValidation": "Nhà thâu chính là bắt buộc",
+
+  "quoteContractorSubSelectLabel": "Nhà thầu phụ",
+  "quoteContractorSubSelectPlaceholder": "Chọn nhà thâu phụ",
+
+  "quoteDistrictIdSelectLabel": "Quận / Huyện",
+  "quoteDistrictIdSelectPlaceholder": "Chọn quận / huyện",
+  "quoteDistrictIdSelectRequiredValidation": "Quận / Huyện là bắt buộc",
+
+  "quoteProvinceIdSelectLabel": "Tỉnh thành",
+  "quoteProvinceIdSelectPlaceholder": "Chọn tỉnh thành",
+  "quoteProvinceIdSelectRequiredValidation": "Tỉnh thành là bắt buộc",
+
+  "quoteProjectIdSelectLabel": "Tên dự án",
+  "quoteProjectIdSelectPlaceholder": "Chọn dự án",
+  "quoteProjectIdSelectRequiredValidation": "Dự án là bắt buộc",
+
+  "quotePaymentMethodSelectLabel": "Hình Thức Thanh Toán",
+  "quotePaymentMethodSelectPlaceholder": "Chọn Hình Thức Thanh Toán",
+  "quotePaymentMethodSelectRequiredValidation": "Hình Thức Thanh Toán là bắt buộc",
+
+  "quoteProductIdSelectLabel": "Hạng mục",
+  "quoteProductIdSelectPlaceholder": "Chọn hạng mục",
+  "quoteProductIdfSelectRequiredValidation": "Hạng mục là bắt buộc",
+
+  "quoteUnitSelectLabel": "Đv Tính",
+  "quoteUnitSelectPlaceholder": "Chọn Đv Tính",
+  "quoteUnitSelectRequiredValidation": "Vui lòng chọn ĐV tính",
+
+  "quoteSaleFormIdIdSelectLabel": "Hình thức bán hàng",
+  "quoteSaleFormIdIdSelectPlaceholder": "Chọn Hình thức bán hàng",
+  "quoteSaleFormIdIdSelectRequiredValidation": "Vui lòng chọn Hình thức bán hàng",
+
+  "quoteProductPriceField": "Đơn giá",
+  "quoteProductPricePlaceholder": "Nhập đơn giá",
+  "quoteProductPriceValidation": "Đơn giá là bắt buộc",
+
+  "quotePaymentMethodNoteField": "Phương thức thanh toán",
+  "quotePaymentMethodNotePlaceholder": "Nhập phương thức thanh toán",
+
+  "quoteProductQtyField": "Khối lượng",
+  "quoteProductQtyPlaceholder": "Nhập khối lượng",
+
+  "quotePaymentMethodFieldLabel": "Hình Thức Thanh Toán khác",
+  "quotePaymentMethodPlaceholder": "Nhập nội dung",
+
+  "quoteStaffAuthorNameLabel": "Người tạo báo giá",
+  "quoteStaffConfirmNameLabel": "Người duyệt báo giá",
+
+  "quoteDurationPriceField": "Thời hạn báo giá",
+  "quoteDurationPricePlaceholder": "Nhập thời gian báo giá",
+
+  "quoteCanApprovedFieldLabel": "Phê duyệt (Phòng KD)",
+  "quoteCanApprovedNotAcceptFieldLabel": "Không duyệt",
+  "quoteCanApprovedWaitingFieldLabel": "Đang chờ duyệt",
+  "quoteCanApprovedAcceptedFieldLabel": "Đã duyệt",
+
+  "quoteCustomerFeedbackNoRejectLabel": "lý do không đồng ý",
+  "quoteCustomerFeedbackNoRejectPlaceholder": "Nhập lý do không đồng ý",
+
+  "quoteMemoFieldLabel": "Ghi chú",
+  "quotPlaceholderFieldLabel": "Nhập ghi chú",
+
+  "quoteTotalPriceLabel": "Tổng tiền",
+
+  "quoteCustomerFeedbackNote": "Lý Do không đồng ý",
+  "quoteCustomerFeedbackNotePlaceholder": "Nhập lý do không đồng ý",
+
+  "quoteSelectContractFilter": "Lọc theo nhà thầu",
+  "quoteSelectProjectFilter": "Lọc theo dự án",
+  "quoteSelectStatusFilter": "Lọc theo trạng thái",
+
+  "quoteNoFeedBackBtn": "Không đồng ý",
+  "quoteBtnAddNew": "Thêm mới",
+  "quoteBtnAddProduct": "Thêm sản phẩm",
+  "quoteBtnSubmit": "Thêm mới",
+  "quoteBtnSubmitUpdate": "Cập nhật",
+  "quoteBtnCancel": "Huỷ",
+  "quoteBtnClose": "Đóng",
+  "quoteBtnDelete": "Xoá",
+  "quoteBtnConfirm": "Xác nhận",
+
+  "quoteMessageCreateSuccess": "Thêm mới dữ liệu thành công!",
+  "quoteMessageCreateError": "Có lỗi khi thêm mới dữ liệu. Vui lòng thử lại",
+
+  "quoteMessageUpdateSuccess": "Cập nhật dữ liệu thành công",
+  "quoteMessageUpdateError": "Có lỗi khi cập nhật dữ liệu. Vui lòng thử lại",
+
+  "quoteMessageDeleteSuccess": "Đã xoá dữ liệu thành công!",
+  "quoteMessageDeleteError": "Có lỗi khi xoá, Vui lòng thử lại!",
+
+  "quoteMessageDeleteDescription": "Bạn có thật sự muốn xóa dự án"
+}

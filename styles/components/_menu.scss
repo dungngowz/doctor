@@ -1,0 +1,40 @@
+.account-menu {
+  margin-top: 10px !important;
+  position: relative;
+  z-index: 1 !important;
+
+  .profile-wrapper {
+    margin: 1px 8px 8px 8px;
+    padding: 10px;
+    border-radius: var(--border-radius-lg);
+    background-color: #f8fbfb !important;
+    border: 1px solid var(--gray-200);
+    .menu-label {
+      font-size: 16px !important;
+      font-weight: 500;
+      margin-bottom: -4px !important;
+    }
+
+    .menu-email {
+      font-size: 13px !important;
+      color: var(--gray-700);
+      font-weight: 300;
+    }
+    .MuiSvgIcon-root {
+      color: var(--gray-600);
+      font-size: 20px !important;
+    }
+  }
+}
+
+.MuiMenu-paper {
+  border-radius: var(--border-radius-lg) !important;
+  margin-top: 2px !important;
+  border: 1px solid rgb(224, 227, 231) !important;
+  box-shadow: rgba(170, 180, 190, 0.3) 0px 4px 20px !important;
+  z-index: 1 !important;
+}
+
+.date-range-picker-menu {
+  padding-top: 0px !important;
+}

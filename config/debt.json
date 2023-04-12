@@ -1,0 +1,104 @@
+{
+  "debtHeadTitle": "Quản lý công nợ",
+  "debtBreadcrumbsTitle": "Quản lý công nợ",
+
+  "debtIdHeadCell": "#",
+  "debtCodeHeadCell": "Mã ĐH",
+  "debtStatusHeadCell": "Trạng thái ĐH",
+  "debtContractCodeHeadCell": "Mã hợp đồng",
+  "debtContractorNameHeadCell": "Nhà thầu",
+  "debtProjectNameHeadCell": "Dự án",
+  "debtFinalPriceHeadCell": "Thành tiền",
+  "debtAddressHeadCell": "Địa điểm",
+  "debtDetailHeadCell": "Chi tiết ĐH",
+  "debtCreatedAtHeadCell": "Ngày tạo",
+  "debtAccountantStatusHeadCell": "Xét duyệt ĐH",
+  "debtRoomBusiness": "Phòng Kinh Doanh",
+  "debtRoomAccountant": "Phòng kế toán",
+
+  "debtSelectQuoteModalLabel": "Chọn báo giá",
+  "debtModalCreate": "Thêm mới công nợ",
+  "debtModalUpdate": "Cập nhật công nợ",
+
+  "debtCodeFieldLabel": "Mã ĐH",
+  "debtCodeFieldPlaceholder": "VD: 102PN32",
+  "debtCanApprovedFieldLabel": "Trạng thái ĐH",
+
+  "debtConsigneeNameFieldLabel": "Người nhận",
+  "debtConsigneeNameFieldPlaceholder": "Nhập tên người nhận",
+
+  "debtDiscountLabel": "Tiền giảm giá",
+  "discountPlaceholder": "Nhập tiền giảm giá",
+
+  "debtTotalPrice": "Thành tiền",
+
+  "debtPhoneContactFieldLabel": "SĐT Người nhận",
+  "debtPhoneContactFieldPlaceholder": "Nhập SĐT người nhận",
+
+  "debtSelectContractModalLabel": "Chọn hợp đồng",
+
+  "debtDetailContractLabel": "Chi tiết hợp đồng",
+  "debtCodeContractLabel": "Mã hợp đồng",
+  "debtStatusContractLabel": "Trạng thái hợp đồng",
+  "debtUserCreatedAtContractLabel": "Người tạo",
+  "debtUserApprovedContractLabel": "Người duyệt",
+
+  "debtAddressLabel": "Địa điểm",
+
+  "debtModalDetail": "Thông tin công nợ",
+
+  "debtQuoteLabel": "Báo giá",
+  "debtNameContractorLabel": "Nhà thầu",
+  "debtNameProjectLabel": "Dự án",
+  "debtNameProvinceLabel": "Tỉnh / Thành",
+  "debtNameDistrictLabel": "Quận / Huyện",
+  "debtQuotePriceLabel": "Giá",
+  "debtQuotePaymentMethodLabel": "Phương thức thanh toán",
+  "debtDurationQuoteLabel": "Thời hạn báo giá",
+
+  "debtProductLabel": "Sản phẩm",
+  "debtCodeProductLabel": "Mã sản phẩm",
+  "debtNameProductLabel": "Hạng mục",
+  "debtUnitProductLabel": "Đvt",
+  "debtPriceProductLabel": "Đơn giá",
+  "debtQtyProductLabel": "Khối lượng",
+  "debtTotalPriceItemProductLabel": "Thành tiền",
+  "debtTotalPriceProductLabel": "Tổng tiền",
+
+  "debtStaffAuthorLabel": "Người tạo công nợ",
+  "debtStaffConfirmLabel": " Người phê duyệt công nợ",
+
+  "debtSelectContractorFilter": "Lọc theo nhà thầu",
+  "debtSelectProjectFilter": "Lọc theo dự án",
+
+  "debtSelectStatusFilter": "Lọc theo tt - ĐH (Phòng KD)",
+  "debtSelectStatusAccountantFilter": "Lọc theo tt - ĐH (Phòng KT)",
+
+  "discountInValid": "Số tiền không hợp lệ",
+
+  "debtBtnSelectContract": "Chọn hợp đồng",
+  "debtBtnReSelectContract": "Chọn lại hợp đồng",
+  "debtSelectContractLabel": "Hợp đồng",
+  "debtBtnAddNew": "Thêm mới",
+  "debtBtnSubmit": "Thêm mới",
+  "debtBtnSubmitUpdate": "Cập nhật",
+  "debtBtnCancel": "Huỷ",
+  "debtBtnClose": "Đóng",
+  "debtBtnDelete": "Xoá",
+  "debtBtnSaveQuote": "Xác nhận",
+  "debtSelectedContractBtnLabel": "Đã chọn",
+  "debtSelectContractBtnLabel": "Chọn hợp đồng",
+
+  "debtMessageCreateSuccess": "Tạo mới dữ liệu thành công!",
+  "debtMessageCreateError": "Có lỗi khi tạo mới dữ liệu. Vui lòng thử lại",
+
+  "debtMessageUpdateSuccess": "Cập nhật dữ liệu thành công",
+  "debtMessageUpdateError": "Có lỗi khi cập nhật dữ liệu. Vui lòng thử lại",
+
+  "debtMessageDeleteSuccess": "Đã xoá dữ liệu thành công!",
+  "debtMessageDeleteError": "Có lỗi khi xoá dữ liệu. Vui lòng thử lại!",
+
+  "debtMessageDeleteDescription": "Bạn có thật sự muốn xóa công nợ",
+
+  "debtSubmitDiscountSuccess": "Cập nhật tiền giảm giá thành công!"
+}

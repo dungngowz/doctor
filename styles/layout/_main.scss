@@ -1,0 +1,40 @@
+@use 'sass:map';
+
+.main-layout-wrapper {
+  // Layout properties
+  display: flex;
+  flex-direction: column;
+
+  // Box model properties
+  width: 100%;
+  min-height: 100vh;
+  flex: 1;
+
+  .app-wrapper {
+    // Layout properties
+    display: flex;
+
+    // Box model properties
+    min-height: calc(100vh - var(--app-header-height));
+    margin-top: calc(var(--app-header-height));
+    margin-left: calc(var(--app-sidebar-width));
+  }
+
+  .app-main {
+    // Layout properties
+    position: relative;
+
+    // Box model properties
+    height: 100%;
+    padding: $padding;
+    width: 100%;
+  }
+}
+
+@include respond-to(map.get($breakpoints, 'large')) {
+  .main-layout-wrapper {
+    .app-wrapper {
+      margin-left: 0px;
+    }
+  }
+}

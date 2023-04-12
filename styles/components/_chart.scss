@@ -1,0 +1,47 @@
+.card-chart-wrapper {
+  height: 100%;
+  position: relative;
+  box-shadow: var(--box-shadow-xs) !important;
+  .MuiCardHeader-root {
+    .MuiCardHeader-title {
+      font-size: calcEm(24);
+      font-weight: 600;
+    }
+    .MuiCardHeader-subheader {
+      font-size: calcEm(15);
+    }
+  }
+}
+
+.apexcharts-canvas {
+  .apexcharts-xaxistooltip {
+    border: 0;
+    border-radius: 10px;
+    background-color: #ffffff1b;
+    box-shadow: var(--box-shadow);
+    backdrop-filter: blur(6px);
+    &::after {
+      border-bottom-color: #fff;
+    }
+    &::before {
+      border-bottom-color: #fff;
+    }
+  }
+
+  .apexcharts-tooltip.apexcharts-theme-light {
+    border: 0;
+    background-color: #ffffff1b;
+    box-shadow: var(--box-shadow);
+    padding: 12px;
+    backdrop-filter: blur(6px);
+  }
+
+  .apx-legend-position-bottom {
+    margin-bottom: -20px;
+  }
+}
+
+.bar-chart-wrapper {
+  padding-bottom: 20px;
+  min-height: 400px;
+}

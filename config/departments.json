@@ -1,0 +1,37 @@
+{
+  "departmentHeadTitle": "Quản lý chức vụ",
+  "departmentBreadcrumbsTitle": "Quản lý chức vụ",
+  "departmentIdHeadCell": "#",
+  "departmentNameHeadCell": "chức vụ",
+  "departmentCreatedAtHeadCell": "Ngày tạo",
+
+  "departmentRuleLabel": "Phân quyền",
+
+  "departmentFullPermissionLabel": "Toàn quyền truy cập",
+  "departmentSelectAllLabel": "Chọn tất cả",
+
+  "departmentModalCreate": "Thêm mới chức vụ",
+  "departmentModalUpdate": "Cập nhật chức vụ",
+
+  "departmentLabelFieldLabel": "Tên chức vụ",
+  "departmentLabelPlaceholder": "VD: Trưởng phòng kinh doanh",
+
+  "departmentBtnAddNew": "Thêm mới",
+  "departmentBtnSubmit": "Thêm mới",
+  "departmentBtnSubmitUpdate": "Cập nhật",
+  "departmentBtnCancel": "Huỷ",
+  "departmentBtnClose": "Đóng",
+  "departmentBtnDelete": "Xoá",
+  "departmentBtnSaveQuote": "Xác nhận",
+
+  "departmentMessageCreateSuccess": "Tạo mới dữ liệu thành công!",
+  "departmentMessageCreateError": "Có lỗi khi tạo mới dữ liệu. Vui lòng thử lại",
+
+  "departmentMessageUpdateSuccess": "Cập nhật dữ liệu thành công",
+  "departmentMessageUpdateError": "Có lỗi khi cập nhật dữ liệu. Vui lòng thử lại",
+
+  "departmentMessageDeleteSuccess": "Đã xoá dữ liệu thành công!",
+  "departmentMessageDeleteError": "Có lỗi khi xoá dữ liệu. Vui lòng thử lại!",
+
+  "departmentMessageDeleteDescription": "Bạn có thật sự muốn xóa chức vụ"
+}

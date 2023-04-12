@@ -1,0 +1,61 @@
+{
+  "login": "auth/login",
+  "me": "auth/me",
+  "updateProfile": "auth/update-profile",
+  "forgotPassword": "admins/forgot-password",
+  "logout": "auth/logout",
+  "regionList": "regions/",
+  "submitRegion": "regions/",
+  "provinceList": "provinces/",
+  "submitProvince": "provinces",
+  "districts": "districts/",
+
+  "products": "products/",
+  "filterProductsByOrder": "products/filter-products-by-order/",
+
+  "productCategories": "product-categories/",
+  "investors": "investors/",
+  "investorTypes": "investor-type/",
+  "staffs": "staffs/",
+  "contractors": "contractors/",
+  "projects": "projects/",
+  "uploadImage": "upload-image",
+  "departments": "departments/",
+  "constructionProgresses": "construction-progresses/",
+  "dashboard": "dashboard/",
+  "quotes": "quotes/",
+  "quotesCheckCanUpdateStatus": "quotes/check-can-update-status/",
+  "quotesCheckCanUpdateInfoGeneral": "quotes/check-can-update-info-general/",
+  "exportPdfQuote": "quotes/export-pdf/",
+  "contracts": "contracts/",
+  "contractsCheckCanUpdateStatus": "contracts/check-can-update-status/",
+  "contractsCheckCanUpdateInfoGeneral": "contracts/check-can-update-info-general/",
+  "orders": "orders/",
+  "ordersCheckCanUpdateStatusBusiness": "orders/check-can-update-status-business/",
+  "ordersCheckCanUpdateStatusAccountant": "orders/check-can-update-status-accountant/",
+  "ordersCheckCanUpdateStatusInfoGeneral": "orders/check-can-update-info-general/",
+  "paymentMethods": "payment-methods/",
+
+  "schedules": "schedules/",
+  "suppliers": "suppliers/",
+  "vehicles": "vehicles/",
+
+  "productInput": "product-input/",
+
+  "reportExport": "product-deliveries/",
+  "reportInput": "product-input/",
+  "stations": "stations/",
+
+  "updateDiscount": "orders/update-discount/",
+  "updateFinish": "orders/update-finish/",
+
+  "productDeliveries": "product-deliveries/",
+
+  "saleForm": "sales-forms/",
+  "customerTypes": "customer-types/",
+  "investorType": "investor-type/",
+  "shippingUnit": "shipping-units/",
+
+  "department": "departments/",
+  "base": "demo"
+}

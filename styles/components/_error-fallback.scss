@@ -1,0 +1,52 @@
+@use 'sass:map';
+
+.group-error {
+  display: flex;
+  height: 100vh;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+
+  @include e('content') {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  @include e('buttons') {
+    margin-top: 3em;
+  }
+
+  @include e('code') {
+    font-size: calcEm(30);
+    font-weight: 600;
+  }
+
+  @include e('message') {
+    font-size: calcEm(18);
+    max-width: 500px;
+  }
+
+  @include e('separate') {
+    font-size: calcEm(30);
+    width: 50px;
+    text-align: center;
+    color: var(--text-gray-300);
+  }
+}
+
+@include respond-to(map.get($breakpoints, 'small')) {
+  .group-error {
+    @include e('content') {
+      flex-direction: column;
+    }
+
+    @include e('code') {
+      margin-bottom: 30px;
+    }
+
+    @include e('separate') {
+      display: none;
+    }
+  }
+}

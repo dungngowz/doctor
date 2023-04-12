@@ -1,0 +1,30 @@
+.MUIRichTextEditor-editorContainer-5 {
+  padding-left: 12px !important;
+  padding-right: 16px !important;
+  font-size: var(--body-font-size) !important;
+}
+
+.wrap-quill {
+  --quill-border-color: var(--input-border-color);
+  .ql-toolbar {
+    border-radius: 4px 4px 0 0;
+    border-color: var(--quill-border-color);
+  }
+  .ql-container {
+    min-height: 150px;
+    border-color: var(--quill-border-color);
+    border-radius: 0 0 4px 4px;
+  }
+
+  .ql-tooltip {
+    left: 5px !important;
+  }
+
+  &:hover {
+    --quill-border-color: var(--input-border-color-hover);
+  }
+
+  @include m('focus') {
+    --quill-border-color: var(--input-border-color-focus);
+  }
+}

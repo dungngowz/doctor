@@ -1,0 +1,15 @@
+{
+  "rest-client.environmentVariables": {
+    "local": {
+      "baseUrl": "https://js-post-api.herokuapp.com/api"
+    },
+    "production": {
+      "baseUrl": "https://js-post-api.herokuapp.com/api"
+    }
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": true
+  }
+}

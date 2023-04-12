@@ -1,6 +1,7 @@
 /**
  * @type {import('next').NextConfig}
  */
+
 const path = require('path')
 const intercept = require('intercept-stdout')
 
@@ -40,7 +41,6 @@ const nextConfig = {
       exclude: ['log'],
     },
   },
-
   sassOptions: {
     includePaths: [path.join(__dirname, 'styles')],
     prependData: `@import "abstracts/mixins.scss";`,

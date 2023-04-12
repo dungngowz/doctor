@@ -7,7 +7,7 @@ jobs:
     name: Build and Deploy
     runs-on: ubuntu-latest
     env:
-      BUCKET: doctor
+      BUCKET: doctor.ng-app.store
       DIST: build
       REGION: us-east-1
       DIST_ID: E2KRANBTG3CEVE

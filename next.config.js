@@ -46,6 +46,7 @@ const nextConfig = {
     includePaths: [path.join(__dirname, 'styles')],
     prependData: `@import "abstracts/mixins.scss";`,
   },
+  trailingSlash: true,
 }
 
 module.exports = nextConfig

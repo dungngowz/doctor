@@ -8,7 +8,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       BUCKET: doctor.ng-app.store
-      DIST: build
+      DIST: out
       REGION: us-east-1
       DIST_ID: E2KRANBTG3CEVE
 

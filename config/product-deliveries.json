@@ -1,0 +1,58 @@
+{
+  "productDeliveryHeadTitle": "Quản lý DS hàng đang xuất",
+  "productDeliveryBreadcrumbsTitle": "Quản lý DS hàng đang xuất",
+  "productDeliveryIdHeadCell": "#",
+  "productDeliveryVehicleIdHeadCell": "Số xe",
+  "productDeliveryCreatedAtHeadCell": "Ngày tạo",
+  "productDeliveryOrderCodeHeadCell": "Mã ĐH",
+  "productDeliveryTypeProductHeadCell": "Loại hàng",
+  "productDeliveryFirstWeightHeadCell": "KL Cân lần 1",
+  "productDeliverySecondWeightHeadCell": "KL Cân lần 2",
+  "productDeliveryTotalPriceHeadCell": "Trọng lượng hàng",
+
+  "productDeliveryContractorNameLabel": "Tên khách hàng",
+  "productDeliveryQtyProductLabel": "Trọng lượng hàng:",
+  "productDeliveryFirstTimeExportLabel": "Thời gian xuất lần 1",
+  "productDeliverySecondTimeExportLabel": "Thời gian xuất lần 2",
+  "productDeliveryPlaceDeliveryExportLabel": "Địa chỉ giao hàng",
+  "productDeliveryPlaceDeliveryExportPlaceholder": "VD: 123 Mai chí thọ...",
+  "productDeliveryConsigneeNameExportLabel": "Người nhận",
+  "productDeliveryConsigneeNameExportPlaceholder": "VD: Nguyễn Văn B",
+
+  "productDeliveryModalCreate": "Thêm mới hàng đang xuất",
+  "productDeliveryModalUpdate": "Cập nhật hàng đang xuất",
+
+  "productDeliveryCodeFieldLabel": "Mã HĐ",
+  "productDeliveryCodeFieldPlaceholder": "VD: 0213",
+
+  "productDeliveryCanApprovedFieldLabel": "Tình trạng HĐ",
+
+  "productDeliverySelectQuoteLabel": "Báo giá",
+
+  "vehicleFilter": "Lọc theo xe",
+  "productTypeFilter": "Lọc theo loại hàng",
+
+  "productDeliveryBtnAddNew": "Thêm mới",
+  "productDeliveryBtnSubmit": "Thêm mới",
+  "productDeliveryBtnSubmitUpdate": "Cập nhật",
+  "productDeliveryBtnCancel": "Huỷ",
+  "productDeliveryBtnClose": "Đóng",
+  "productDeliveryBtnDelete": "Xoá",
+  "productDeliveryBtnSaveQuote": "Xác nhận",
+  "productDeliverySelectedQuoteBtnLabel": "Đã chọn",
+  "productDeliverySelectQuoteBtnLabel": "Chọn báo giá",
+
+  "productDeliverySelectProjectFilter": "Lọc theo dự án",
+  "productDeliverySelectStatusFilter": "Lọc theo trạng thái HĐ",
+
+  "productDeliveryMessageCreateSuccess": "Tạo mới dữ liệu thành công!",
+  "productDeliveryMessageCreateError": "Có lỗi khi tạo mới dữ liệu. Vui lòng thử lại",
+
+  "productDeliveryMessageUpdateSuccess": "Cập nhật dữ liệu thành công",
+  "productDeliveryMessageUpdateError": "Có lỗi khi cập nhật dữ liệu. Vui lòng thử lại",
+
+  "productDeliveryMessageDeleteSuccess": "Đã xoá dữ liệu thành công!",
+  "productDeliveryMessageDeleteError": "Có lỗi khi xoá dữ liệu. Vui lòng thử lại!",
+
+  "productDeliveryMessageDeleteDescription": "Bạn có thật sự muốn xóa hàng đang xuất"
+}

@@ -1,0 +1,303 @@
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type='number'] {
+  -moz-appearance: textfield;
+}
+
+.MuiFormControl-root {
+  transition: 0.6s !important;
+
+  .MuiOutlinedInput-input {
+    padding: $input-padding !important;
+    font-size: var(--body-font-size) !important;
+    color: var(--gray-700) !important;
+    font-weight: 500 !important;
+    background-color: #fff;
+    border-radius: var(--border-radius) !important;
+    &::placeholder {
+      opacity: 0.7;
+    }
+  }
+
+  .Mui-disabled {
+    -webkit-text-fill-color: var(--gray-700) !important;
+    cursor: not-allowed !important;
+  }
+
+  fieldset {
+    border-radius: var(--border-radius) !important;
+    border-color: var(--input-border-color) !important;
+  }
+
+  // Adorned end
+  .MuiInputBase-adornedEnd {
+    padding-right: 16px;
+    background-color: #fff;
+    border-radius: var(--border-radius) !important;
+  }
+
+  .Mui-focused fieldset {
+    transition: 0.4s !important;
+  }
+
+  // Multiline textarea
+  .MuiInputBase-multiline {
+    padding: 0px !important;
+  }
+
+  .Mui-disabled {
+    &:hover {
+      fieldset {
+        border-color: var(--input-border-color) !important;
+      }
+    }
+  }
+}
+
+// Input label
+.MuiInputLabel-root {
+  font-size: 12px !important;
+  font-weight: 600 !important;
+  color: var(--dark) !important;
+  padding-bottom: 3px !important;
+  text-transform: capitalize;
+  .required {
+    color: var(--danger);
+  }
+}
+
+.input-label {
+  @extend .MuiInputLabel-root;
+}
+
+// Autocomplete styles
+.MuiFormControl-root {
+  .MuiAutocomplete-root {
+    border-radius: var(--border-radius);
+    .MuiAutocomplete-input {
+      font-size: var(--body-font-size) !important;
+      padding: 0px 4px !important;
+    }
+
+    fieldset {
+      border-color: var(--input-border-color) !important;
+    }
+
+    // Form label root
+    .MuiFormLabel-root {
+      font-size: var(--body-font-size) !important;
+    }
+
+    // Pseudo class
+    &:hover {
+      fieldset {
+        border-color: var(--input-border-color-hover) !important;
+      }
+    }
+
+    .Mui-focused fieldset {
+      border-color: var(--input-border-color-focus) !important;
+    }
+
+    .MuiChip-root {
+      background-color: #2e7d32 !important;
+      color: #fff;
+      font-weight: 500 !important;
+      .MuiSvgIcon-root {
+        color: #fff !important;
+      }
+    }
+
+    .Mui-disabled {
+      .MuiChip-root {
+        background-color: var(--gray-200) !important;
+        opacity: 1 !important;
+      }
+    }
+  }
+}
+
+// MuiAutocomplete-popper
+.MuiAutocomplete-popper {
+  z-index: 99999 !important;
+  .MuiPaper-root {
+    border-radius: 0px 0px var(--border-radius) var(--border-radius);
+    box-shadow: var(--box-shadow) !important;
+    border-top: 0px !important;
+    border: 1px solid var(--input-border-color);
+    font-size: var(--body-font-size) !important;
+  }
+}
+
+.MuiInput-underline {
+  .MuiInputBase-input {
+    color: var(--gray-700) !important;
+    font-weight: 500 !important;
+  }
+}
+
+.MuiInput-underline.MuiInput-root:after {
+  border-bottom: 2px solid var(--gray-400) !important;
+}
+// .MuiInput-underline {
+.MuiInput-underline.MuiInput-root:before {
+  border-bottom: 1px solid var(--gray-400) !important;
+}
+
+// ======================================================
+// Custom input
+// ======================================================
+
+// Styles Search toolbar
+.table-search-wrapper {
+  // Layout properties
+  display: flex;
+  align-items: center;
+
+  // Box model properties
+  height: 38px;
+  padding: 6px 6px 6px 10px !important;
+  gap: 6px;
+
+  // Visual Properties
+  border-radius: var(--border-radius);
+  border: 1px solid var(--input-border-color);
+  background-color: var(--input-bg);
+
+  // Typography properties
+  font-size: 14px;
+
+  // CSS3 properties
+  @include transition(0.4s);
+
+  // Pseudo class
+  &:focus-within {
+    background-color: var(--input-bg-focus);
+  }
+
+  &:hover {
+    border: 1px solid var(--input-border-color);
+  }
+
+  .MuiIconButton-root {
+    margin-right: -4px;
+  }
+}
+
+// input dropzone
+.dropzone {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+  border-width: 2px;
+  border-radius: 2px;
+  border-color: #eeeeee;
+  border-style: dashed;
+  background-color: #fafafa;
+  color: #bdbdbd;
+  outline: none;
+  transition: border 0.24s ease-in-out;
+}
+
+.dropzone-thumbsContainer {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin-top: 16px;
+}
+
+.dropzone-thumb {
+  display: inline-flex;
+  border-radius: 2px;
+  border: 1px solid #eaeaea;
+  margin-bottom: 8px;
+  margin-right: 8px;
+  width: 100px;
+  height: 100px;
+  padding: 4px;
+  box-sizing: border-box;
+}
+
+.dropzone-thumbInner {
+  display: flex;
+  min-width: 0;
+  overflow: hidden;
+}
+
+.dropzone-img {
+  display: block;
+  width: auto;
+  height: 100%;
+}
+
+.MuiFormControlLabel-label {
+  font-size: 13px !important;
+  font-weight: 500 !important;
+  color: var(--dark) !important;
+}
+
+.Mui-focused fieldset {
+  transition: 0.6s !important;
+}
+
+.Mui-checked {
+  transition: 0.6s !important;
+}
+
+.MuiCheckbox-root {
+  transition: 0.6s !important;
+}
+
+.search-field {
+  display: flex;
+  align-items: center;
+  border: 1px solid var(--gray-300);
+  border-radius: var(--border-radius);
+  padding-left: 8px;
+  padding-right: 2px;
+  height: var(--base-height);
+  background-color: var(--white);
+
+  .MuiInputBase-root {
+    width: 100% !important;
+    padding-left: 4px;
+    .MuiInputBase-input {
+      padding-left: 4px;
+      font-weight: 500 !important;
+      font-size: 14px;
+      color: var(--gray-700) !important;
+
+      &::placeholder {
+        opacity: 0.7 !important;
+      }
+    }
+  }
+
+  .MuiSvgIcon-root {
+    color: var(--gray-700);
+  }
+
+  transition: 0.6s;
+  &:focus-within {
+    transition: 0.6s;
+    border-color: var(--gray-400);
+  }
+}
+
+.input-align {
+  &__right {
+    .MuiInputBase-input {
+      display: flex;
+      justify-content: flex-end;
+      text-align: end;
+    }
+  }
+}

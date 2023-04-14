@@ -1,0 +1,96 @@
+{
+  "contractorHeadTitle": "Quản lý nhà thầu - thi công",
+  "contractorBreadcrumbsTitle": "Quản lý NT - TC",
+
+  "contractorIdHeadCell": "#",
+  "contractorCodeHeadCell": "Mã NT-TC",
+  "contractorCustomerTYpeHeadCell": "Loại khách hàng",
+  "contractorNameHeadCell": "Tên NT-TC",
+  "contractorEmailHeadCell": "Email",
+  "contractorAddressHeadCell": "Địa chỉ",
+  "contractorContactHeadCell": "Người liên hệ",
+  "contractorStaffHeadCell": "Nhân viên phụ trách",
+  "contractorCreatedAtHeadCell": "Ngày tạo",
+
+  "contractorModalCreate": "Thêm mới nhà thầu - thi công",
+  "contractorModalUpdate": "Cập nhật nhà thầu - thi công",
+
+  "contractorInfoLabel": "Thông tin nhà thầu",
+  "contractorInfoCustomerLabel": "Thông tin nhà thầu",
+  "contractorContactLabel": "Thông tin liên hệ 1",
+
+  "contractorCodeFieldLabel": "Mã NT-TC",
+  "contractorCodeFieldPlaceholder": "VD: 0212",
+  "contractorCodeRequiredValidation": "Vui lòng nhập mã NT-TC",
+  "contractorCodeMaxLengthValidation": "Mã NT-TC tối đa 255 ký tự",
+
+  "contractorNameFieldLabel": "Tên NT-TC",
+  "contractorNameFieldPlaceholder": "VD: Hưng Thịnh Phát",
+  "contractorNameRequiredValidation": "Vui lòng nhập NT-TC",
+  "contractorMaxLengthValidation": "Tên NT - TC chỉ được phép tối đa 255 ký tự",
+
+  "contractorAddressFieldLabel": "Địa chỉ",
+  "contractorAddressFieldPlaceholder": "Vui lòng nhập địa chỉ",
+  "contractorAddressRequiredValidation": "Địa chỉ chỉ được phép tối đa 255 ký tự",
+
+  "contractorTaxCodeFieldLabel": "Mã số thuế",
+  "contractorTaxCodeFieldPlaceholder": "VD: 0321019787",
+  "contractorTaxCodeRequiredValidation": "Vui lòng nhập mã số thuế",
+  "contractorTaxCodeMaxLengthValidation": "Mã số thuế chỉ được phép tối đa 20 ký tự",
+
+  "contractorCustomerTypeIdSelectLabel": "Loại khách hàng",
+  "contractorCustomerTypeIdSelectPlaceholder": "Chọn loại khách hàng",
+  "contractorCustomerTypeIdSelectRequiredValidation": "Vui lòng chọn loại khách hàng",
+
+  "contractorEmailFieldLabel": "Email",
+  "contractorEmailFieldPlaceholder": "VD: abc@gmail.com",
+  "contractorEmailRequiredValidation": "Vui lòng nhập email",
+
+  "contractorNameContactFieldLabel": "Tên người liên hệ",
+  "contractorNameContactFieldPlaceholder": "VD: Nguyễn Vân B",
+  "contractorNameContactRequiredValidation": "Vui lòng nhập tên người liên hệ",
+  "contractorNameContactMaxLengthValidation": "Tên người liên hệ chỉ được phép tối đa 255 ký tự",
+
+  "contractorPhoneContactFieldLabel": "SĐT người liên hệ",
+  "contractorPhoneContactFieldPlaceholder": "VD: 09080946591",
+  "contractorPhoneContactRequiredValidation": "Vui lòng nhập SĐT người liên hệ",
+  "contractorPhoneContactMaxLengthValidation": "SĐT người liên hệ chỉ được phép 15 ký tự",
+
+  "contractorContactSubLabel": "Thông tin liên hệ 2",
+  "contractorEmailContactFieldLabel": "Email",
+  "contractorEmailContactFieldPlaceholder": "VD: nguyenvan@gmail.com",
+
+  "contractorPositionContactFieldLabel": "Chức vụ",
+  "contractorPositionContactFieldPlaceholder": "",
+
+  "contractorPositionContactRequiredValidation": "Vui lòng nhập chức vụ người liên hệ",
+  "contractorPositionContactMaxLengthValidation": "Chức vụ người liên hệ tối đa 255 ký tự",
+
+  "contractorMemoFieldLabel": "Ghi chú",
+  "contractorMemoFieldPlaceholder": "Nhập ghi chú",
+
+  "contractorStaffSelectLabel": "Nhân viên phụ trách",
+  "contractorStaffSelectPlaceholder": "Chọn nhân viên phụ trách",
+  "contractorStaffSelectRequiredValidation": "Vui lòng chọn nhân viên phụ trách",
+
+  "contractorSelectStaffFilter": "Lọc theo NV phụ trách",
+  "contractorSelectCustomerTypeFilter": "Lọc theo loại KH",
+
+  "contractorBtnAddNew": "Thêm mới",
+  "contractorBtnSubmit": "Thêm mới",
+  "contractorBtnSubmitUpdate": "Cập nhật",
+  "contractorBtnCancel": "Huỷ",
+  "contractorBtnClose": "Đóng",
+  "contractorBtnDelete": "Xoá",
+
+  "contractorMessageCreateSuccess": "Thêm mới dữ liệu thành công!",
+  "contractorMessageCreateError": "Có lỗi khi thêm mới dữ liệu. Vui lòng thử lại",
+
+  "contractorMessageUpdateSuccess": "Cập nhật dữ liệu thành công",
+  "contractorMessageUpdateError": "Có lỗi khi cập nhật dữ liệu. Vui lòng thử lại",
+
+  "contractorMessageDeleteSuccess": "Đã xoá dữ liệu thành công!",
+  "contractorMessageDeleteError": "Có lỗi khi xoá, Vui lòng thử lại!",
+
+  "contractorMessageDeleteDescription": "Bạn có thật sự muốn xóa nhà thầu"
+}

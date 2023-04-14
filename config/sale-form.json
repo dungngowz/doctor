@@ -1,0 +1,32 @@
+{
+  "saleFormHeadTitle": "Quản lý hình thức bán hàng",
+  "saleFormBreadcrumbsTitle": "Quản lý hình thức bán hàng",
+
+  "saleFormIdHeadCell": "#",
+  "saleFormTitleHeadCell": "Tên hình thức bán hàng",
+  "saleFormCreatedAtHeadCell": "Ngày tạo",
+
+  "saleFormTitleFieldLabel": "Tên hình thức bán hàng",
+  "saleFormTitleFieldPlaceholder": "Nhập tên hình thức bán hàng",
+
+  "saleFormModalCreate": "Thêm mới hình thức bán hàng",
+  "saleFormModalUpdate": "Cập nhật hình thức bán hàng",
+
+  "saleFormBtnAddNew": "Thêm mới",
+  "saleFormBtnSubmit": "Thêm mới",
+  "saleFormBtnSubmitUpdate": "Cập nhật",
+  "saleFormBtnCancel": "Huỷ",
+  "saleFormBtnClose": "Đóng",
+  "saleFormBtnDelete": "Xoá",
+
+  "saleFormMessageCreateSuccess": "Thêm mới dữ liệu thành công!",
+  "saleFormMessageCreateError": "Có lỗi khi thêm mới dữ liệu. Vui lòng thử lại",
+
+  "saleFormMessageUpdateSuccess": "Cập nhật dữ liệu thành công",
+  "saleFormMessageUpdateError": "Có lỗi khi cập nhật dữ liệu. Vui lòng thử lại",
+
+  "saleFormMessageDeleteSuccess": "Đã xoá dữ liệu thành công!",
+  "saleFormMessageDeleteError": "Có lỗi khi xoá, Vui lòng thử lại!",
+
+  "saleFormMessageDeleteDescription": "Bạn có thật sự muốn xóa hình thức bán hàng"
+}

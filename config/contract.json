@@ -1,0 +1,74 @@
+{
+  "contractHeadTitle": "Quản lý hợp đồng",
+  "contractBreadcrumbsTitle": "Quản lý hợp đồng",
+  "contractIdHeadCell": "#",
+  "contractCodeHeadCell": "Mã HĐ",
+  "contractStatusHeadCell": "Trạng thái HĐ",
+  "contractQuoteContractorHeadCell": "Nhà thầu",
+  "contractQuoteProjectHeadCell": "Dự án",
+  "contractAddressHeadCell": "Địa điểm",
+  "contractNameHeadCell": "Tên",
+  "contractCreatedAtHeadCell": "Ngày tạo",
+  "contractDetailHeadCell": "Chi tiết hợp đồng",
+
+  "contractSelectQuoteModalLabel": "Danh sách báo giá",
+  "contractModalCreate": "Thêm mới hợp đồng",
+
+  "contractModalUpdate": "Cập nhật hợp đồng",
+
+  "contractCodeFieldLabel": "Mã HĐ",
+  "contractCodeFieldPlaceholder": "VD: 0213",
+
+  "contractCanApprovedFieldLabel": "Tình trạng HĐ",
+
+  "quoteCustomerFeedbackLabel": "Phản hồi khách hàng",
+
+  "quoteCreateContractBtn": "Tạo hợp đồng",
+
+  "contractSelectQuoteLabel": "Báo giá",
+  "contractDetailQuoteLabel": "Chi tiết báo giá",
+  "contractContractorLabel": "Nhà thầu chính",
+  "contractProjectLabel": "Dự án",
+  "contractAddressLabel": "Địa điểm",
+  "contractCodeQuoteLabel": "Mã báo giá",
+  "contractPaymentMethodLabel": "Hình thức thanh toán",
+  "contractProductLabel": "Sản phẩm",
+  "contractProductNameLabel": "Tên",
+  "contractProductPriceLabel": "Đơn giá",
+  "contractProductQtyLabel": "Khối lượng",
+  "contractPaymentMethodOrderLabel": "Nội dung thanh toán",
+
+  "contractStatusLeaderLabel": "Phê duyệt (Trường Phòng KD)",
+  "contractStatusDirectorLabel": "Phê duyệt (Giám đốc)",
+  "contractPaymentMethodNoteLabel": "Phương thức thanh toán",
+  "contractStaffAuthorLabel": "Người tạo báo giá",
+
+  "contractTotalPriceItemLabel": "Tổng tiền",
+
+  "contractBtnSelectQuote": "Chọn báo giá",
+  "contractBtnReSelectQuote": "Chọn lại báo giá",
+  "contractBtnAddNew": "Thêm mới",
+  "contractBtnSubmit": "Thêm mới",
+  "contractBtnSubmitUpdate": "Cập nhật",
+  "contractBtnCancel": "Huỷ",
+  "contractBtnClose": "Đóng",
+  "contractBtnDelete": "Xoá",
+  "contractBtnSaveQuote": "Xác nhận",
+  "contractSelectedQuoteBtnLabel": "Đã chọn",
+  "contractSelectQuoteBtnLabel": "Chọn báo giá",
+
+  "contractSelectContractorFilter": "Lọc theo nhà thầu",
+  "contractSelectProjectFilter": "Lọc theo dự án",
+  "contractSelectStatusFilter": "Lọc theo trạng thái HĐ",
+
+  "contractMessageCreateSuccess": "Tạo mới dữ liệu thành công!",
+  "contractMessageCreateError": "Có lỗi khi tạo mới dữ liệu. Vui lòng thử lại",
+
+  "contractMessageUpdateSuccess": "Cập nhật dữ liệu thành công",
+  "contractMessageUpdateError": "Có lỗi khi cập nhật dữ liệu. Vui lòng thử lại",
+
+  "contractMessageDeleteSuccess": "Đã xoá dữ liệu thành công!",
+  "contractMessageDeleteError": "Có lỗi khi xoá dữ liệu. Vui lòng thử lại!",
+
+  "contractMessageDeleteDescription": "Bạn có thật sự muốn xóa hợp đồng"
+}

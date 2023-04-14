@@ -1,0 +1,52 @@
+{
+  "vehicleHeadTitle": "Quản lý xe",
+  "vehicleBreadcrumbsTitle": "Quản lý xe",
+  "vehicleIdHeadCell": "#",
+  "vehicleShippingUnitIdHeadCell": "Đơn vị vận chuyển",
+  "vehicleCodeHeadCell": "Biển số xe",
+  "vehicleNameHeadCell": "Tên",
+  "vehicleStaffHeadCell": "Tài xế",
+  "vehicleQrcodeHeadCell": "Mã QR",
+  "vehiclePhoneHeadCell": "Số điện thoại",
+  "vehicleWeightHeadCell": "Trọng lượng xe (Tấn)",
+  "vehicleCreatedAtHeadCell": "Ngày tạo",
+
+  "vehicleShippingUnitIdFieldLabel": "Đơn vị vận chuyển",
+  "vehicleShippingUnitIdFieldPlaceholder": "Chọn đơn vị vận chuyển",
+  "vehicleShippingUnitIdRequiredValidation": "Vui lòng đơn vị vận chuyển",
+
+  "vehicleStaffFieldRequired": "Vui lòng chọn Tài xế",
+  "vehicleCodeFieldLabel": "Biển số xe",
+  "vehicleCodeFieldPlaceholder": "VD: L1-011123",
+  "vehicleWeightFieldLabel": "Trọng lượng xe (Tấn)",
+
+  "vehicleWeightFieldPlaceholder": "VD: 1,000",
+
+  "vehiclePhoneFieldLabel": "Số điện thoại",
+  "vehiclePhoneFieldPlaceholder": "VD: 0987777666",
+
+  "vehicleShippingUnitFilter": "Lọc theo đơn vị vận chuyển",
+
+  "vehicleBtnAddNew": "Thêm mới",
+  "vehicleBtnSubmit": "Thêm mới",
+  "vehicleBtnSubmitUpdate": "Cập nhật",
+  "vehicleBtnEdit": "Chỉnh sửa",
+  "vehicleBtnCancel": "Huỷ",
+  "vehicleBtnClose": "Đóng",
+  "vehicleBtnDelete": "Xoá",
+
+  "vehicleModalCreate": "Tạo mới xe",
+  "vehicleModalUpdate": "Cập nhật xe",
+
+  "vehicleMessageCreateSuccess": "Tạo mới dữ liệu thành công!",
+  "vehicleMessageCreateError": "Có lỗi khi tạo mới dữ liệu. Vui lòng thử lại",
+
+  "vehicleMessageUpdateSuccess": "Cập nhật dữ liệu thành công",
+  "vehicleMessageUpdateError": "Có lỗi khi cập nhật dữ liệu. Vui lòng thử lại",
+
+  "vehicleMessageDeleteSuccess": "Đã xoá dữ liệu thành công!",
+  "vehicleMessageDeleteError": "Có lỗi khi xoá dữ liệu. Vui lòng thử lại!",
+
+  "vehicleMessageDeleteDescription": "Bạn có thật sự muốn xóa xe",
+  "vehicleNotFoundData": "Dữ liệu không được tìm thấy"
+}

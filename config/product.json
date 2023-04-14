@@ -1,0 +1,71 @@
+{
+  "productTitle": "Quản lý sản phẩm",
+
+  "productIdHeadCell": "#",
+  "productTitleHeadCell": "Tên SP",
+  "productCategoryTitleHeadCell": "Loại SP",
+  "productCodeHeadCell": "Mã SP",
+  "productCreateAtHeadCell": "Ngày tạo",
+  "productTypeHeadCell": "Nhập / Xuất hàng",
+  "productUnitHeadCell": "Đơn vị",
+  "productUpdatedAtHeadCell": "Ngày cập nhật",
+
+  "productModalCreate": "Thêm mới sản phẩm",
+  "productModalUpdate": "Cập nhật sản phẩm",
+
+  "productCategoryFieldLabel": "Loại SP",
+  "productSelectCategoryField": "Lọc theo loại sản phẩm",
+  "productCategoryFieldPlaceholder": "VD: Nhựa Tưới",
+  "productCategoryRequiredValidation": "Vui lòng chọn loại SP",
+
+  "productCodeFieldLabel": "Mã SP",
+  "productCodeFieldPlaceholder": "VD: 0001",
+  "productCodeRequiredValidation": "Vui lòng nhập mã SP",
+  "productCodeMaxLengthValidation": "Mã SP chỉ được phép tối đa 20 ký tự",
+
+  "productNameFieldLabel": "Tên SP",
+  "productNameFieldPlaceholder": "VD: Nhựa Pha Dầu",
+  "productNameRequiredValidation": "Vui lòng nhập tên SP",
+  "productNameMaxLengthValidation": "Tên SP chỉ được phép tối đa 255 ký tự",
+
+  "productStandardFieldLabel": "Tiêu chuẩn",
+  "productStandardFieldPlaceholder": "VD: 8819-2011",
+  "productStandardMaxLengthValidation": "Tiêu chuẩn chỉ được phép tối đa 255 ký tự",
+
+  "productMemoFieldLabel": "Ghi chú",
+  "productMemoFieldPlaceholder": "",
+  "productMemoMaxLengthValidation": "Ghi chú chỉ được phép tối đa 255 ký tự",
+
+  "productTypeFieldLabel": "Nhập / Xuất hàng",
+  "productTypeInputFieldLabel": "Nhập hàng",
+  "productTypeOutputFieldLabel": "Xuất hàng",
+
+  "productUnitFieldLabel": "Đơn vị",
+  "productUnitFieldPlaceholder": "Vd: Tấn",
+  "productUnitRequiredValidation": "Vui lòng chọn đơn vị",
+
+  "productUnitTonFieldLabel": "Tấn",
+  "productUnitKgFieldLabel": "Kg",
+  "productUnitKhoiFieldLabel": "Khối",
+
+  "productTypeFilter": "Lọc theo xuất / nhập hàng",
+
+  "productBtnAddNew": "Thêm mới",
+  "productBtnSubmit": "Thêm mới",
+  "productBtnSubmitUpdate": "Cập nhật",
+  "productBtnCancel": "Huỷ",
+  "productBtnClose": "Đóng",
+  "productBtnDelete": "Xoá",
+
+  "productMessageCreateSuccess": "Thêm mới dữ liệu thành công!",
+  "productMessageCreateError": "Có lỗi khi thêm mới dữ liệu. Vui lòng thử lại",
+
+  "productMessageUpdateSuccess": "Cập nhật dữ liệu thành công",
+  "productMessageUpdateError": "Có lỗi khi cập nhật dữ liệu. Vui lòng thử lại",
+
+  "productMessageDeleteSuccess": "Đã xoá dữ liệu thành công!",
+  "productMessageDeleteError": "Có lỗi khi xoá dữ liệu. Vui lòng thử lại!",
+
+  "productMessageDeleteTitle": "Xoá",
+  "productMessageDeleteDescription": "Bạn có thật sự muốn xóa"
+}

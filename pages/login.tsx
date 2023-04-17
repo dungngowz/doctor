@@ -5,7 +5,7 @@ import { LoginContainer } from '@/plugins/auth/components/login'
 export default function LoginPage() {
   return (
     <>
-      <HeadPage title="Login" />
+      <HeadPage title="Login doctor" />
       <LoginContainer />
     </>
   )
